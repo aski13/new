@@ -1,0 +1,194 @@
+E:\мдк задачки\pirioga\bin\Debug\x86\sqlite3.dll
+E:\мдк задачки\pirioga\bin\Debug\x64\sqlite3.dll
+E:\мдк задачки\pirioga\bin\Debug\pirioga.exe.config
+E:\мдк задачки\pirioga\bin\Debug\pirioga.exe
+E:\мдк задачки\pirioga\bin\Debug\pirioga.pdb
+E:\мдк задачки\pirioga\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\мдк задачки\pirioga\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\мдк задачки\pirioga\bin\Debug\SQLitePCLRaw.core.dll
+E:\мдк задачки\pirioga\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\мдк задачки\pirioga\bin\Debug\System.Buffers.dll
+E:\мдк задачки\pirioga\bin\Debug\System.Data.SQLite.dll
+E:\мдк задачки\pirioga\bin\Debug\System.Memory.dll
+E:\мдк задачки\pirioga\bin\Debug\System.Numerics.Vectors.dll
+E:\мдк задачки\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\мдк задачки\pirioga\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\мдк задачки\pirioga\bin\Debug\System.Buffers.xml
+E:\мдк задачки\pirioga\bin\Debug\System.Data.SQLite.xml
+E:\мдк задачки\pirioga\bin\Debug\System.Memory.xml
+E:\мдк задачки\pirioga\bin\Debug\System.Numerics.Vectors.xml
+E:\мдк задачки\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\мдк задачки\pirioga\obj\Debug\pirioga.csproj.AssemblyReference.cache
+E:\мдк задачки\pirioga\obj\Debug\pirioga.csproj.SuggestedBindingRedirects.cache
+E:\мдк задачки\pirioga\obj\Debug\pirioga.Form1.resources
+E:\мдк задачки\pirioga\obj\Debug\pirioga.Properties.Resources.resources
+E:\мдк задачки\pirioga\obj\Debug\pirioga.csproj.GenerateResource.cache
+E:\мдк задачки\pirioga\obj\Debug\pirioga.csproj.CoreCompileInputs.cache
+E:\мдк задачки\pirioga\obj\Debug\pirioga.csproj.CopyComplete
+E:\мдк задачки\pirioga\obj\Debug\pirioga.exe
+E:\мдк задачки\pirioga\obj\Debug\pirioga.pdb
+E:\мдк задачки\pirioga\obj\Debug\pirioga.Form2.resources
+E:\мдк задачки\pirioga\obj\Debug\pirioga.registration.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\x86\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\x64\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\pirioga.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\pirioga.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\pirioga.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Buffers.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Memory.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Buffers.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Memory.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.Authentication.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.registration.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\Pirioga\pirioga\obj\Debug\pirioga.pdb
+F:\Pirioga\pirioga\bin\Debug\x86\sqlite3.dll
+F:\Pirioga\pirioga\bin\Debug\x64\sqlite3.dll
+F:\Pirioga\pirioga\bin\Debug\pirioga.exe.config
+F:\Pirioga\pirioga\bin\Debug\pirioga.exe
+F:\Pirioga\pirioga\bin\Debug\pirioga.pdb
+F:\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.core.dll
+F:\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Pirioga\pirioga\bin\Debug\System.Buffers.dll
+F:\Pirioga\pirioga\bin\Debug\System.Data.SQLite.dll
+F:\Pirioga\pirioga\bin\Debug\System.Memory.dll
+F:\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.dll
+F:\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\Pirioga\pirioga\bin\Debug\System.Buffers.xml
+F:\Pirioga\pirioga\bin\Debug\System.Data.SQLite.xml
+F:\Pirioga\pirioga\bin\Debug\System.Memory.xml
+F:\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.xml
+F:\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Pirioga\pirioga\obj\Debug\pirioga.csproj.AssemblyReference.cache
+F:\Pirioga\pirioga\obj\Debug\pirioga.Authentication.resources
+F:\Pirioga\pirioga\obj\Debug\pirioga.Form1.resources
+F:\Pirioga\pirioga\obj\Debug\pirioga.Form2.resources
+F:\Pirioga\pirioga\obj\Debug\pirioga.Properties.Resources.resources
+F:\Pirioga\pirioga\obj\Debug\pirioga.registration.resources
+F:\Pirioga\pirioga\obj\Debug\pirioga.csproj.GenerateResource.cache
+F:\Pirioga\pirioga\obj\Debug\pirioga.csproj.CoreCompileInputs.cache
+F:\Pirioga\pirioga\obj\Debug\pirioga.csproj.CopyComplete
+F:\Pirioga\pirioga\obj\Debug\pirioga.exe
+F:\Pirioga\pirioga\obj\Debug\pirioga.pdb
+F:\Pirioga\pirioga\obj\Debug\pirioga.PIC.resources
+E:\Pirioga\pirioga\bin\Debug\x86\sqlite3.dll
+E:\Pirioga\pirioga\bin\Debug\x64\sqlite3.dll
+E:\Pirioga\pirioga\bin\Debug\pirioga.exe.config
+E:\Pirioga\pirioga\bin\Debug\pirioga.exe
+E:\Pirioga\pirioga\bin\Debug\pirioga.pdb
+E:\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.core.dll
+E:\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Pirioga\pirioga\bin\Debug\System.Buffers.dll
+E:\Pirioga\pirioga\bin\Debug\System.Data.SQLite.dll
+E:\Pirioga\pirioga\bin\Debug\System.Memory.dll
+E:\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.dll
+E:\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\Pirioga\pirioga\bin\Debug\System.Buffers.xml
+E:\Pirioga\pirioga\bin\Debug\System.Data.SQLite.xml
+E:\Pirioga\pirioga\bin\Debug\System.Memory.xml
+E:\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.xml
+E:\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Pirioga\pirioga\obj\Debug\pirioga.csproj.AssemblyReference.cache
+E:\Pirioga\pirioga\obj\Debug\pirioga.csproj.SuggestedBindingRedirects.cache
+E:\Pirioga\pirioga\obj\Debug\pirioga.Authentication.resources
+E:\Pirioga\pirioga\obj\Debug\pirioga.Form1.resources
+E:\Pirioga\pirioga\obj\Debug\pirioga.Form2.resources
+E:\Pirioga\pirioga\obj\Debug\pirioga.PIC.resources
+E:\Pirioga\pirioga\obj\Debug\pirioga.Properties.Resources.resources
+E:\Pirioga\pirioga\obj\Debug\pirioga.registration.resources
+E:\Pirioga\pirioga\obj\Debug\pirioga.csproj.GenerateResource.cache
+E:\Pirioga\pirioga\obj\Debug\pirioga.csproj.CoreCompileInputs.cache
+E:\Pirioga\pirioga\obj\Debug\pirioga.csproj.CopyComplete
+E:\Pirioga\pirioga\obj\Debug\pirioga.exe
+E:\Pirioga\pirioga\obj\Debug\pirioga.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\x86\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\x64\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\pirioga.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\pirioga.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\pirioga.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Buffers.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Memory.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Buffers.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Memory.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.Authentication.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.PIC.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.registration.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\rybej\rybej\Pirioga\pirioga\obj\Debug\pirioga.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\x86\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\x64\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\pirioga.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\pirioga.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\pirioga.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Buffers.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Memory.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\Microsoft.Data.Sqlite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Buffers.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Memory.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Numerics.Vectors.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.Authentication.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.PIC.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.registration.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9\МДК 03. 01\Жиделев А Якорев В\1\rybej\1\Pirioga\pirioga\obj\Debug\pirioga.pdb
